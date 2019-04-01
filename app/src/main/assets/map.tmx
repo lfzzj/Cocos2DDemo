@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="14" height="6" tilewidth="46" tileheight="53">
+ <tileset firstgid="1" name="bk1" tilewidth="46" tileheight="53">
+  <image source="bk1.jpg" width="678" height="320"/>
+ </tileset>
+ <layer name="block" width="14" height="6">
+  <data encoding="base64" compression="zlib">
+   eJwTZGBgECQDWyBhdL4FDnXo4oI4xNDZ6PaSq49Yt1GCAY/6CYs=
+  </data>
+ </layer>
+ <objectgroup name="road" width="14" height="6">
+  <object x="23" y="82"/>
+  <object x="114" y="80"/>
+  <object x="118" y="239"/>
+  <object x="209" y="239"/>
+  <object x="208" y="77"/>
+  <object x="348" y="75"/>
+  <object x="352" y="238"/>
+  <object x="486" y="240"/>
+  <object x="486" y="74"/>
+  <object x="621" y="78"/>
+ </objectgroup>
+</map>
